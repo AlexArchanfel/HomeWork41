@@ -1,0 +1,15 @@
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\obj\Debug\net7.0\ДЗ задача 41.csproj.AssemblyReference.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\obj\Debug\net7.0\ДЗ задача 41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\obj\Debug\net7.0\ДЗ задача 41.AssemblyInfoInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\obj\Debug\net7.0\ДЗ задача 41.AssemblyInfo.cs
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\obj\Debug\net7.0\ДЗ задача 41.csproj.CoreCompileInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\bin\Debug\net7.0\ДЗ задача 41.exe
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\bin\Debug\net7.0\ДЗ задача 41.deps.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\bin\Debug\net7.0\ДЗ задача 41.runtimeconfig.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\bin\Debug\net7.0\ДЗ задача 41.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\bin\Debug\net7.0\ДЗ задача 41.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\obj\Debug\net7.0\ДЗ задача 41.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\obj\Debug\net7.0\refint\ДЗ задача 41.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\obj\Debug\net7.0\ДЗ задача 41.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\obj\Debug\net7.0\ДЗ задача 41.genruntimeconfig.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ задача 41\obj\Debug\net7.0\ref\ДЗ задача 41.dll
